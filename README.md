@@ -1,2 +1,2 @@
-# cs16-skinchanger
-The graphic skinchanger for Counter-Stike 1.6, Steam and Non-Steam versions.
+# Skinchanger for Counter-Strike
+The graphic skinchanger for Counter-Strike 1.6, Steam and Non-Steam versions.
